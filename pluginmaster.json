@@ -3,7 +3,7 @@
     "Author": "Nyx",
     "Name": "MarketVoyager",
     "InternalName": "MarketVoyager",
-    "AssemblyVersion": "0.55.8.0",
+    "AssemblyVersion": "0.55.9.0",
     "Description": "Personal plugin.",
     "ApplicableVersion": "any",
     "Tags": [],
@@ -15,9 +15,9 @@
     "Punchline": "Personal plugin.",
     "AcceptsFeedback": true,
     "RepoUrl": "",
-    "LastUpdate": 1794777232,
-    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.8/latest.zip",
-    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.8/latest.zip",
-    "DownloadLinkTesting": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.8/latest.zip"
+    "LastUpdate": 1795121508,
+    "DownloadLinkInstall": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.9/latest.zip",
+    "DownloadLinkUpdate": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.9/latest.zip",
+    "DownloadLinkTesting": "https://raw.githubusercontent.com/Nyx-Lotus/assets/data/dist/v0.55.9/latest.zip"
   }
 ]
